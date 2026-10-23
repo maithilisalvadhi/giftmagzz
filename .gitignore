@@ -5,3 +5,5 @@ node_modules/
 dist/
 build/
 giftmagzz-backend/data/
+
+giftmagzz-frontend/app-new.js
