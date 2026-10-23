@@ -1,0 +1,3 @@
+[build]
+  # Static site: no build step, publish the frontend folder as-is
+  publish = "giftmagzz-frontend"
